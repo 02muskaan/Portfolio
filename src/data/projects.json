@@ -1,0 +1,23 @@
+[
+  {
+    "title": "IMDB Clone",
+    "imageSrc": "projects/project.png",
+    "description": "IMDB clone is a database platform that helps you provide seamless services to entertainment lovers and critics.",
+    "skills": ["HTML", "Css","Javascript", "React"],
+    "source": "https://github.com/02muskaan/IMDB02"
+  },
+  {
+    "title": "HR Analytics",
+    "imageSrc": "projects/project.png",
+    "description":"HR analytics, also referred to as people analytics, involves gathering, analyzing, and reporting HR data to drive business results.",
+    "skills": ["Excel","PowerBi","SQL"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Credit Card Report",
+    "imageSrc": "projects/project.png",
+    "description": "A credit card is a type of credit facility, provided by banks that allow customers to borrow funds within a pre-approved credit limit.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://www.github.com"
+  }
+]

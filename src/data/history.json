@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "Netthings Technologies",
+    "startDate": "Jan, 2024",
+    "endDate": "May, 2024",
+    "experiences":["Developed an e-commerce platform for selling agricultural products using HTML, CSS, and JavaScript. I designed a responsive, user-friendly interface to ensure seamless navigation and optimized user experience."],
+    "imageSrc": "history/google.png"
+  }
+]

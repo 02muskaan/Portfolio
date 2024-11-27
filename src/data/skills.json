@@ -1,0 +1,35 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Powebi",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "JAVA",
+    "imageSrc": "skills/figma.png"
+  }
+  
+]
